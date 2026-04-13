@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jocelyn Jude! (@jocelynpjude)
-- 👀 I’m interested in exploring opportunities in fintech and edtech spaces
+- 👀 I’m interested in exploring opportunities in fintech, healthtech, and edtech spaces
 - 🌱 I’m currently learning Swift Development
 - 💞️ Open to internships in tech where I can grow and contribute
 - 📫 How to reach me: email me - jocelynpjude@gmail.com
